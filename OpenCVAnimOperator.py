@@ -36,7 +36,8 @@ class OpenCVAnimOperator(bpy.types.Operator):
     face_detect_path = cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
     #landmark_model_path = "./data/lbfmodel.yaml"  #Linux
     #landmark_model_path = "./data/lbfmodel.yaml"         #Mac
-    landmark_model_path = "C:\\Users\\Joe\\Documents\\AnimationUsingPython\\data\\lbfmodel.yaml"    #Windows
+    
+    landmark_model_path = "E:\\Course_Materials\\SRM\\Specialization_AR_VR\Week_1\\GSOC2017-master\\data\\lbfmodel.yaml"    #Windows
     
     # Load models
     fm = cv2.face.createFacemarkLBF()
