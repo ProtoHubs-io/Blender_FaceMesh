@@ -17,7 +17,7 @@
 1. Download Blender Version 2.8 from the link above and install it.
 1. Then download both the Animation file and the AI model and extract it.
 1. Open the downloaded Animation file and this should open the Vincent Character Animation in Blender. It should like this...![Image1](images/img1.png)
-1. Then simply clone this Repo using the command **git clone https://github.com/ProtoHubs-io/Blender_MediaPipe.git** from your command prompt inorder to download the python scripts necessary to run the AI model.
+1. Then simply clone this Repo using the command **git clone https://github.com/ProtoHubs-io/Blender_FaceMesh.git** from your command prompt inorder to download the python scripts necessary to run the AI model.
 1. Close the command prompt and open it again as administrator this time and enter the following 3 commands
    - **cd C:\Program Files\Blender Foundation\Blender 2.82\2.82\python\bin**
    - **python -m pip install --upgrade pip**
