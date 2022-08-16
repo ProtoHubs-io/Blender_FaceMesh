@@ -8,7 +8,7 @@
 
 **Please download these inorder to successfully implement the project**
 
-1. Blender Version 2.8 - [Click Here](https://download.blender.org/release/Blender2.82/blender-2.82-windows64.msi)
+1. Blender Version 2.8  - [Click Here](https://download.blender.org/release/Blender2.80/)
 1. Animation Character file - [Click Here](https://cloud.blender.org/p/characters/5718a967c379cf04929a4247)
 1. AI Model - [Click Here](https://tinyurl.com/2p8ryysk)
 
